@@ -11,4 +11,4 @@ Length Slider: Adjusts the pendulum’s rod length in real-time
 **Files**
 - Assets/Scripts/PendulumController.cs: Main script controlling the pendulum physics and UI interactions
 - Assets/Scenes/Main.unity: Scene containing the pendulum, slider, and camera
-- demo.gif: Visual preview of the prototype
+- demo.gif: Short visual preview 
